@@ -350,7 +350,7 @@ If institutional owner wishes to restore legibility of engraved text:
 - No contrast enhancement
 
 ---
-### XXI. Equatorium
+## XXI. Equatorium
 
 The Equatorium includes a **single minimally tactile interactive element**. The **outer circular ring** is mounted as a hand-rotatable disc around a fixed inner diagram.
 
