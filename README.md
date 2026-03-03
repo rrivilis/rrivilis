@@ -1,9 +1,8 @@
 # The Book of Recursions
 
-This repository hosts a working manuscript of *The Book of Recursions*.
+This repository hosts the canonical release of *The Book of Recursions* in digital format.
 ## Status
-Content is frozen pending typographic finalization.
-This version is publicly available as an admissible preprint artifact.
+Version 1.0 has been released as a canonical artifact as of 03/03/2026. Further updates to the content will be reflected in the version number and the version control history. 
 ## Files
 - `The-Book-of-Recursions-v0.9.pdf` — current manuscript
 ## License
