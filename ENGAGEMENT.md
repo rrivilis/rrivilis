@@ -6,7 +6,7 @@ This document describes how this work is funded, distributed, engaged with, and 
 
 **What is the status of this work?**  
 
-The content of this work is currently frozen for typographic finalization. This work is publicly available and released under a **dual license**:
+The content of this work is currently released at version 1.0. This work is publicly available and released under a **dual license**:
 
 • **Creative Commons Attribution–ShareAlike (CC BY-SA 4.0)**  
 
@@ -190,7 +190,7 @@ No. This project does not participate in real-time commentary, reactive position
 
 **How can you be contacted?**  
 
-A public contact email is provided for **formal inquiries only**, including:
+A public contact email will be provided for **formal inquiries only**, including:
 
 • Academic invitations
 
@@ -260,7 +260,7 @@ Anything that requires capture, mediation, justification, or performance is decl
 
 The following labels and objections have appeared frequently enough in responses to nonstandard research programs that I am listing them here to reduce redundant correspondence.
 
-If any of the following apply, no response should be expected. You may be documented and studied for sociological field research purposes if you attempt this.
+If any of the following apply, no response should be expected. 
 
 • **“This is mysticism / metaphysics / metaphor”**  
 
@@ -272,7 +272,7 @@ Peer review is a downstream institutional process, not a prerequisite for intell
 
 • **“Where are the proofs?”**  
 
-The work is not a monograph in pure mathematics. Proof-theoretic obligations, where relevant, are local to specific formalisms and do not generalize across the entire project.
+The work is not specifically scoped as a monograph in pure mathematics. Proof-theoretic obligations, where relevant, are local to specific formalisms and do not generalize across the entire project. Formal proof objects would be produced separately from the monograph as needed. 
 
 • **“This isn’t rigorous”**  
 
@@ -308,7 +308,7 @@ Correct. The work does not depend on conforming to existing procedural templates
 
 • **“You should collaborate with an institution to legitimize this”**  
 
-Institutional affiliation is not a criterion of validity and is not being sought.
+Institutional affiliation is not a criterion of validity and is not being sought explicitly to advertise this project at this time.
 
 • **“This is unfalsifiable / not even wrong”**  
 
@@ -320,9 +320,7 @@ Analogical resemblance is not an argument.
 
 **Closing note for appendix** 
 
-This list is not exhaustive and will not be expanded.
-
-Its purpose is not to pre-empt criticism or eschew answerability, but to clarify which forms of response do not register as engagement.
+This list is not exhaustive. Its purpose is not to pre-empt criticism or eschew answerability, but to clarify which forms of response do not register as engagement.
 
 Silence in response to these classifications should be interpreted as a boundary, not as concession. Future iterations of this list may be derived empirically.  
 
