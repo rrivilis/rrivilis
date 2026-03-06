@@ -33,6 +33,7 @@ Primary support channels:
 • **GitHub Sponsors**  
 
 These platforms are used to minimize political exclusion, geographic discrimination, and extractive payment infrastructure.
+
 ⸻
 
 **Why not Stripe, PayPal, or similar platforms?**  
@@ -64,6 +65,7 @@ Patronage does **not** confer influence, access, or representation.
 Independent art grants are evaluated case by case and must not require public attribution, branding, progress reporting, or institutional affiliation.  
 
 ⸻
+
 **What kinds of funding are declined?**  
 
 The project does **not** accept:
@@ -141,11 +143,12 @@ Declined:
 • Appearances intended to confer symbolic legitimacy or prestige
 
 Conference participation is horizontal, not ceremonial. I may not accept all requests, but I will consider them on a case by case basis.
+
 ⸻
 
 **Do you participate in debates?**  
 
-No. Engagements premised on adversarial debate, justificatory performance, or rhetorical contest are declined. The work is offered for study, discussion, and contradiction analysis—not for performative defense.
+No. Engagements premised on adversarial debate, justificatory performance, or rhetorical contest are declined. The work is offered for study, discussion, and contradiction analysis, not for performative defense.
 
 ⸻
 
@@ -190,7 +193,7 @@ No. This project does not participate in real-time commentary, reactive position
 
 **How can you be contacted?**  
 
-A public contact email will be provided for **formal inquiries only**, including:
+A public contact email is available through rrivilis@gmail.com for **formal inquiries only**, including:
 
 • Academic invitations
 
@@ -256,67 +259,39 @@ Anything that requires capture, mediation, justification, or performance is decl
 
 ⸻
 
-**Appendix: Common Misclassifications I Will Not Correct**  
+**Appendix: Common Categories That Misclassify The Work**  
 
 The following labels and objections have appeared frequently enough in responses to nonstandard research programs that I am listing them here to reduce redundant correspondence.
 
 If any of the following apply, no response should be expected. 
 
-• **“This is mysticism / metaphysics / metaphor”**  
+• **“Mysticism / metaphysics / metaphor”**  
 
-The work makes formal claims, introduces internal constraints, and advances testable structural arguments. Misclassification as mysticism indicates methodological projection rather than critique.
+The work makes formal claims, introduces internal constraints, and advances testable structural arguments. It is addressable and testable as a systems framework as opposed to a symbolic or mystical revelation. 
 
-• **“This needs peer review before it can be taken seriously”**  
+• **“Outside of peer review”**  
 
-Peer review is a downstream institutional process, not a prerequisite for intelligibility or internal coherence. Requests framed this way do not constitute engagement with the work itself.
+Peer review is a downstream institutional process, not a prerequisite for intelligibility or internal coherence. Requests for engagement framed this way do not constitute engagement with the work itself.
 
-• **“Where are the proofs?”**  
+• **“Proof obligations”**  
 
-The work is not specifically scoped as a monograph in pure mathematics. Proof-theoretic obligations, where relevant, are local to specific formalisms and do not generalize across the entire project. Formal proof objects would be produced separately from the monograph as needed. 
+The work is not specifically scoped as a monograph in pure mathematics. Proof-theoretic obligations, where relevant, are local to specific formalisms and do not generalize across the entire project. Formal proof objects would be produced separately from the monograph when appropriate.  
 
-• **“This isn’t rigorous”**  
-
-Claims of insufficient rigor without reference to specific definitions, constructions, or failure modes are throat clearing gestures rather than analytical feedback. Proposed updates to formalisms, disagreements, or recommendations on research trajectory are welcome and encouraged.
-
-• **“This should be simplified / made accessible”**  
-
-Difficulty is not an error state. The work is intentionally calibrated for readers willing to sustain complexity without compression.
-
-• **“This belongs in [discipline X]”**  
+• **“[Discipline X]”**  
 
 The project operates upstream of disciplinary partitioning. The work states in the prologue that it is a first principles project. Attempts to reassign it wholesale to a single field misunderstand its scope.
 
-• **“This is just philosophy” / “This is just theory” / “This is metaphysics”**  
+• **“Politics / ideology”**  
 
-These are indexical referents, not structure or content. The work spans formal systems, historical analysis, and applied models without reducing to any one of them.
+The work analyzes material and institutional constraints. Discomfort with implications does not constitute ideological content, nor does any political implication disqualify the substance of the project.
 
-• **“This is political / ideological”**  
-
-The work analyzes material and institutional constraints. Discomfort with implications does not constitute ideological content, but may constitute ideological affiliation by the accuser.
-
-• **“This needs to be debated”**  
-
-The project is not advanced through adversarial debate formats. Critical engagement requires slow reading and specific contradiction analysis. I do not answer to requests that led with requirements for justification.
-
-• **“This reminds me of [thinker X], therefore it is derivative”**  
+• **“Like [Thinker X] or based on [Thinker Y]'s late work”**  
 
 Lineage recognition is not a refutation. Adjacency does not establish redundancy.
 
-• **“This is not how research is normally done”**  
+• **“Unfalsifiable / not even wrong”**  
 
-Correct. The work does not depend on conforming to existing procedural templates prior to stabilization.
-
-• **“You should collaborate with an institution to legitimize this”**  
-
-Institutional affiliation is not a criterion of validity and is not being sought explicitly to advertise this project at this time.
-
-• **“This is unfalsifiable / not even wrong”**  
-
-The work introduces structural commitments that can fail or update. Failure mode testing and falsifiability are encouraged. Blanket claims of unfalsifiability without specifying failure conditions will not be addressed.
-
-• **“This sounds like [buzzword]”**  
-
-Analogical resemblance is not an argument.
+The work introduces structural commitments that can fail or update. Claims of insufficient rigor without reference to specific definitions, constructions, or failure modes do not constitute response to the work. Proposed updates to formalisms, disagreements, or recommendations on research trajectory are welcome and encouraged. Blanket claims of unfalsifiability without specifying failure conditions will not be addressed.
 
 **Closing note for appendix** 
 
@@ -326,6 +301,6 @@ Silence in response to these classifications should be interpreted as a boundary
 
 **Final note of engagement policy**  
 
-This work operates upstream of disciplines, institutions, platforms, and cycles of reaction. It is concerned with the grammars of coordination that make such systems possible, not with occupying them as a public persona. I operate strictly through custodianship of the work moving forward and am keeping patronage local without filtration through institutions. Implementation and future research moving forward refers to research tooling, conceptual infrastructure, pedagogical artifacts, and selective applied collaborations consistent with this policy. It does not imply policy advocacy, institutional rollout, or program deployment.  
+This work operates upstream of disciplines, institutions, platforms, and cycles of discourse. It is concerned with the grammars of coordination that make such systems possible, not with occupying them as a public persona. I operate strictly through custodianship of the work moving forward and am keeping patronage local without filtration through institutions. Implementation and future research moving forward refers to research tooling, conceptual infrastructure, pedagogical artifacts, and selective applied collaborations consistent with this policy. It does not imply policy advocacy, institutional rollout, or program deployment.  
 
 The conditions outlined here exist so the work can continue without distortion. Custodianship is not permanent. The custodial duty for the project exists only so long as it is necessary for the work’s integrity and transport. I only care that it completes its passage for as long as it is useful.
