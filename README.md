@@ -20,10 +20,10 @@ This corner of GitHub explores the intersection of graphs, stateful computation,
 
 ## Monograph
 
-This repository also hosts the canonical release of *The Book of Recursions* in digital format. Version 1.0 was released as a canonical artifact on 2026-03-03. Further updates to the content will be reflected in the version number and the version control history.
+This repository also hosts the canonical release of *The Book of Recursions* in digital format. Version 1.2 was released as a canonical artifact on 2026-05-05. Further updates to the content will be reflected in the version number and the version control history.
 
 **File**
-- `The-Book-of-Recursions-v1.0.pdf` — current manuscript
+- `The-Book-of-Recursions-v1.2.pdf` — current manuscript
 
 **Citation**
 - DOI: [10.5281/zenodo.18872970](https://doi.org/10.5281/zenodo.18872970)
@@ -33,8 +33,4 @@ This repository also hosts the canonical release of *The Book of Recursions* in 
 
 *The Book of Recursions* is dual-licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and [Free Art License 1.3](https://artlibre.org/licence/lal/en/). Forking and derivative works are permitted under these terms. Representation is not implied.
 
----
 
-## Engagement & Patronage
-
-See [`ENGAGEMENT.md`](./ENGAGEMENT.md) for policies on correspondence, patronage, funding, institutional engagement, and media.
