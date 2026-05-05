@@ -26,7 +26,7 @@ This repository also hosts the canonical release of *The Book of Recursions* in 
 - `The-Book-of-Recursions-v1.2.pdf` — current manuscript
 
 **Citation**
-- DOI: [10.5281/zenodo.18872970](https://doi.org/10.5281/zenodo.18872970)
+- DOI: [10.5281/zenodo.20034609](https://doi.org/10.5281/zenodo.20034609)
 - ORCID: [0009-0007-9720-3910](https://orcid.org/0009-0007-9720-3910)
 
 **License**
