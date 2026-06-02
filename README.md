@@ -9,12 +9,14 @@ This corner of GitHub explores the intersection of graphs, stateful computation,
 - [**TEG-Lang**](https://github.com/rrivilis/teg) — programming language where position is type and execution is graph rewriting you can watch
 - [**antares**](https://github.com/rrivilis/antares) — agent runtime where planning is logic, execution is a DAG, and memory is persistent state
 - [**Vincula**](https://github.com/rrivilis/vincula) — messaging system where spam is impossible and you can't receive a message without authorization from capabilities
+- [**pgress**](https://github.com/rrivilis/pgress)  — distributed runtime designed to actively suppress redundant computational work by tracking causal dependencies between observable state changes.
 
 | Domain      | Approach                          |
 | ----------- | --------------------------------- |
 | Programming | Graphs instead of syntax          |
 | AI agents   | State instead of chat history     |
 | Messaging   | Capabilities instead of filtering |
+| Runtime     | Propagation instead of execution  |         
 
 ---
 
