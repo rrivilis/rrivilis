@@ -1,10 +1,10 @@
 # Roman Rivilis here. Nice to meet you!
 
-This corner of GitHub explores the intersection of graphs, stateful computation, and consistency in distributed, scale-sensitive systems.
+I've built Solarplex, a product suite oriented around governed workspaces for shared human and AI agent workflows. [Learn more about it here.](https://github.com/rrivilis/solarplex) 
 
 ---
 
-## Projects
+## Projects I have worked on
 
 - [**TEG-Lang**](https://github.com/rrivilis/teg) — programming language where position is type and execution is graph rewriting you can watch
 - [**antares**](https://github.com/rrivilis/antares) — agent runtime where planning is logic, execution is a DAG, and memory is persistent state
@@ -20,7 +20,7 @@ This corner of GitHub explores the intersection of graphs, stateful computation,
 
 ---
 
-## Monograph
+## Books I have written
 
 This repository also hosts the canonical release of *The Book of Recursions* in digital format. Version 1.2 was released as a canonical artifact on 2026-05-05. Further updates to the content will be reflected in the version number and the version control history.
 
