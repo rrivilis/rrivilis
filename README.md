@@ -22,10 +22,10 @@ I've built Solarplex, a product suite oriented around governed workspaces for sh
 
 ## Books I have written
 
-This repository also hosts the canonical release of *The Book of Recursions* in digital format. Version 1.2 was released as a canonical artifact on 2026-05-05. Further updates to the content will be reflected in the version number and the version control history.
+This repository also hosts the canonical release of *The Book of Recursions* in digital format. Version 1.3 was released as a canonical artifact on 2026-10-01. Further updates to the content will be reflected in the version number and the version control history.
 
 **File**
-- `The-Book-of-Recursions-v1.2.pdf` — current manuscript
+- `The-Book-of-Recursions-v1.3.pdf` — current manuscript
 
 **Citation**
 - DOI: [10.5281/zenodo.20034609](https://doi.org/10.5281/zenodo.20034609)
